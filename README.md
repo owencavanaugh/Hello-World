@@ -12,7 +12,7 @@ First Repository
 
 - ## Project Title
 
-- *Hello World Sample - My First Repository*
+- **Variables Affecting Student Math Performance**
 
 - ## Description 
 
