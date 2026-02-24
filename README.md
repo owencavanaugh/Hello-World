@@ -16,6 +16,9 @@ First Repository
 
 - ## Description 
 
+  I worked with a group of students in my Business Analytics class to determine what indepedent variables affected our dependent variable the most.
+  1. Math Score (*Dependent*)
+  2. 
 - ## Tools Used
 
 - ## Files Used
