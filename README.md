@@ -45,6 +45,6 @@ First Repository
   [Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)
 
 - ## How to Run Program
-   Access to the excel document 
+   Access to the excel document
 - ## Additional Information
   Recieved a high score on this project 
