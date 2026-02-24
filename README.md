@@ -12,7 +12,7 @@ First Repository
 
 - ## Project Title
 
-- **Variables Affecting Student Math Performance**
+**Variables Affecting Student Math Performance**
 
 - ## Description 
 
